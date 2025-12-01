@@ -70,16 +70,17 @@ Es un mecanismo financiero que consiste en apartar dinero periódicamente para r
 
 ## 
 
-+***Valor de mercado*** 
++***Valor de mercado***  
 Precio comercial del activo en un momento dado.  
 
-+***Valor de desecho***
++***Valor de desecho***  
 Valor mínimo que se puede obtener por vender el activo como material o partes inutilizables.
 
-+***Valor de salvamento*** 
++***Valor de salvamento***  
 Valor estimado al final de la vida útil; en muchos casos coincide con el valor residual.
 
-+***Concepto de depreciación***
+## Concepto de depreciación  
+
 La depreciación se puede definir como la pérdida de valor que sufre un activo fijo, principalmente por cuestiones del uso, desgaste, obsolescencia o el simple paso del tiempo. Esto vuelve su vida útil limitada, que es determinada con base en la experiencia y la determinan expertos en el tema
 
 
