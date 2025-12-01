@@ -1,0 +1,219 @@
+---
+title: "TABLAS DE DEPRECIACIÓN, IMPORTANCIA Y CÓMO USARLAS"
+author: "Universidad Michoacana de San Nicolas de Hidalgo"
+format:
+  pdf: default
+  revealjs:
+    logo: AyC.png
+    logo-position: bottom-right
+    logo-size: 100 px
+    theme: "league"
+    transition: slide
+    slide-number: true
+    toc: false
+---
+
+
+## Integrantes
+
+-Miguel Sandoval Millán ➡ 2408819j@umich.mx
+
+-Juan Carrillo Salazar ➡ 2408812d@umich.mx
+
+-Aldo Hernandez Perez ➡ 2405155c@umich.mx
+
+-Rosendo Hernandez Arias ➡ 2350465c@umich.mx
+
+
+
+## Introducción:
+
+Este ensayo tiene como objetivo desarrollar y explicar lo que es la depreciación, tablas de depreciación,cómo calcularlas y aprender sobre sus aplicaciones en el ámbito de las finanzas, como parte del trabajo final de la materia de matemáticas financieras.
+Las tablas de depreciación son una parte muy importante en las matemáticas financieras para poder saber con exactitud la disminución del valor que tendrá un activo fijo a lo largo del tiempo. Mediante dichas tablas se puede apreciar de manera más ordenada el valor de los distintos activos que posee una empresa, y así llevar un control sobre las variaciones (disminuciones) de su valor.
+
+
+
+## 
+
+Las tablas de depreciación sirven para reflejar esa pérdida de valor de los activos en los libros de la empresa, y así poder determinar si un activo sigue siendo rentable o no conservarlo, cuantificar costos o realizar un plan de inversión a futuro.
+Es importante llevar un buen registro de la depreciación para no dar una imagen falsa o errónea a los inversionistas externos.
+
+
+
+## Desarrollo:
+
+Algunos conceptos clave que se deben tomar en cuenta son los siguientes:
+Activo fijo: es un bien tangible utilizado para producir bienes o servicios,  no son bienes para vender(aunque haya casos donde sí se presente esto) y se caracteriza por tener una larga vida útil, estos son los activos en los que principalmente se enfoca la depreciación. Ejemplo de ellos son la maquinaria, vehículos, equipo de cómputo.
+
+
+## 
+
+Vida útil:se trata del  período donde como indica su nombre, se espera que el activo  sea útil para la empresa. Se mide generalmente en años y depende del uso, la calidad y el entorno operativo.
+
+Valor residual:valor estimado del activo al final de su vida útil, vaya lo que se espera recuperar una vez se decide venderlo, desecharlo o intercambiarlo
+
+Base depreciable: es la diferencia entre el costo inicial del activo y su valor residual, representa el monto total que se debe depreciar a lo largo de su vida útil.
+
+## 
+
+Factor efectivo de depreciación
+Es el porcentaje o tasa que, aplicado a la base depreciable, determina la depreciación anual en determinados métodos, como el de porcentaje fijo.
+
+Fondo de reserva
+Es un mecanismo financiero que consiste en apartar dinero periódicamente para reemplazar un activo depreciable al final de su vida útil. Este fondo se capitaliza, generalmente a una tasa de interés, y se utiliza en el método de fondo de amortización.
+
+
+
+## 
+
+Valor de mercado: precio comercial del activo en un momento dado.
+Valor de desecho: valor mínimo que se puede obtener por vender el activo como material o partes inutilizables.
+
+Valor de salvamento: valor estimado al final de la vida útil; en muchos casos coincide con el valor residual.
+
+Concepto de depreciación:la depreciación se puede definir como la pérdida de valor que sufre un activo fijo, principalmente por cuestiones del uso, desgaste, obsolescencia o el simple paso del tiempo. Esto vuelve su vida útil limitada, que es determinada con base en la experiencia y la determinan expertos en el tema
+
+
+
+## Las causas de la depreciación se dividen principalmente en dos, que son la funcional y la física. 
+
+La funcional a su vez, se divide en dos, por obsolescencia o por insuficiencia, cuando es por obsolescencia no tiene que ver con que el activo se haya desgastado, sino más bien con la adquisición de nuevos bienes o la invención de algo que produzca que ya no resulte útil seguir usando o teniendo el activo, porque resulte anticuado o inútil. Un ejemplo claro de activos que se deprecian por obsolescencia son algunos dispositivos electrónicos como computadoras, impresoras e incluso celulares.
+
+## 
+
+Mientras que si se trata de obsolescencia funcional por insuficiencia, ahi no se habla de un “bien/activo sustituto” sino del simple hecho que nuestro activo no puede hacer frente a las necesidades o exigencias del trabajo que se le pide. Por ejemplo si una empresa posee una máquina que se encarga de producir x productos por hora, quizás hoy en día resulte prudente seguir manteniendo esa máquina si cumple con lo que se requiere, pero si en un futuro la empresa tiene que producir el doble o triple de productos que es capaz de producir, se vuelve insuficiente, la máquina no se desgastó, ni quedó “obsoleta” por así decirlo, solo que ya es “insuficiente” y por tanto se deprecia también.
+
+
+
+## 
+
+Por otro lado está la causa física de depreciación que esta sí se refiere a aquella que se presenta por el desgaste por el uso o la acción de elementos naturales, ejemplo de ellos es el desgaste u oxidación de piezas de una máquina.
+Tabla de depreciación
+Una tabla de depreciación es un registro ordenado que muestra, el valor en libros del activo, su depreciación anual, acumulada y el valor residual. Facilita visualizar el desgaste económico del bien.
+La periodicidad de estos registros siempre, o casi siempre suele ser anual.
+Existen diversos métodos para calcular el cargo periódico por depreciación, los más comunes son: 
+
+
+
+##
+
+1. Método de línea recta
+Fórmula:
+ Depreciación anual = (Costo del activo – Valor residual) / Vida útil
+Características:
+Depreciación uniforme cada año.
+Fácil de aplicar y comprender.
+
+Cuándo usarlo:
+ Cuando el activo se desgasta de manera constante o lineal, como mobiliario o instalaciones.
+
+
+
+##
+
+2. Método de suma de dígitos
+Fórmula del factor:
+ Factor = Años restantes / Suma de los dígitos de n
+ (donde n es la vida útil en años)
+Características:
+Depreciación acelerada.
+
+Mayor depreciación en los primeros años.
+
+Cuándo usarlo:
+ Cuando el activo pierde valor o eficiencia rápidamente al inicio de su uso, por ejemplo, maquinaria especializada.
+
+
+
+##
+
+3. Método de porcentaje fijo (o depreciación acelerada)
+Fórmula:
+ Depreciación anual = Valor en libros al inicio del año × Tasa fija
+Características:
+Depreciación porcentual constante sobre el valor restante.
+
+Puede coexistir con un valor residual mínimo en base a normas fiscales.
+
+Cuándo usarlo:
+ Se usa con activos cuya productividad disminuye de manera acelerada, como equipos de tecnología.
+
+
+ 
+##
+
+4. Método del fondo de amortización
+Fórmula general:
+ Se deposita un pago periódico en un fondo que genera intereses, para que al final de la vida útil se acumule la base depreciable.
+ Pago periódico = Base depreciable × [i / ((1 + i)ⁿ – 1)]
+Características:
+No representa depreciación “contable” tradicional, es más bien  acumulación efectiva en un fondo.
+
+Incluye capitalización del dinero reservado.
+
+
+
+##
+
+Cuándo usarlo:
+ Cuando se desea asegurar financieramente el reemplazo del activo sin afectar el flujo de efectivo a futuro.
+
+Comparativa entre métodos
+
+●	Línea recta: simple, uniforme, estable para reportes.
+
+●	Suma de dígitos: tiene una depreciación rápida al inicio; útil para activos de desgaste acelerado.
+
+●	Porcentaje fijo: mayor depreciación inicial, disminuye con el tiempo; mayor flexibilidad.
+
+●	Fondo de amortización: enfoque financiero más que contable; ideal para planificación de reemplazo.
+
+
+
+##
+
+Impacto de las tablas y la depreciación en la vida real
+Las tablas de depreciación son indispensables para la toma de decisiones empresariales:
+
+●	Permiten evaluar costos reales y márgenes de utilidad.
+
+●	Influyen en el cálculo de impuestos.
+
+●	Ayudan a determinar el momento adecuado para reemplazar activos.
+
+●	Facilitan la planificación financiera de largo plazo.
+
+
+
+## Ejemplo práctico
+Datos del activo:
+Costo: $100,000
+
+Valor residual: $10,000
+
+Vida útil: 5 años
+
+Base depreciable = 100,000 – 10,000 = $90,000
+
+Método: Línea recta
+
+ Depreciación anual = 90,000 / 5 = $18,000
+ 
+Año	Depreciación anual	Depreciación acumulada	Valor en libros
+1	18,000	18,000	82,000
+2	18,000	36,000	64,000
+3	18,000	54,000	46,000
+4	18,000	72,000	28,000
+5	18,000	90,000	10,000 (residual)
+
+
+
+
+## Conclusión
+
+ En base a lo visto y señalado en el ensayo, se puede decir que la depreciación es un elemento esencial para comprender el comportamiento de los activos y su impacto en las finanzas de una empresa. Las tablas de depreciación permiten visualizar claramente esta pérdida de valor y vuelven más sencilla la toma de decisiones a futuro. Asimismo, los distintos  métodos que se explicaron permiten flexibilidad para adaptarse a las necesidades específicas o lo que se requiera de cada activo y organización según los datos que se tengan, contribuyendo a una gestión financiera más eficiente y responsable.
+
+  
+# Descargar presentacion en Pdf💯
+
+[Link de descarga](index.pdf) ✔️
