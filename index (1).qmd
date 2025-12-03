@@ -28,13 +28,13 @@ format:
 
 ## Que son las tablas de depreciacion
 
-Las tablas de depreciación son una parte muy importante en las matemáticas financieras para poder saber con exactitud la disminución del valor que tendrá un activo fijo a lo largo del tiempo. Mediante dichas tablas se puede apreciar de manera más ordenada el valor de los distintos activos que posee una empresa, y así llevar un control sobre las variaciones (disminuciones) de su valor.
+Las tablas de depreciación son un registro que detalla como se distribuye la pérdida de valor de un activo fijo a lo largo de su vida útil, son una parte muy importante en las matemáticas financieras para poder saber con exactitud la disminución del valor que tendrá dicho activo  a lo largo del tiempo. Mediante estas tablas se puede apreciar de manera más ordenada el valor de los distintos activos que posee una empresa, y así llevar un control sobre las variaciones (disminuciones) de su valor.
 
 
 
 ## Para que sirven?
 
-Las tablas de depreciación sirven para reflejar esa pérdida de valor de los activos en los libros de la empresa, y así poder determinar si un activo sigue siendo rentable o no conservarlo, cuantificar costos o realizar un plan de inversión a futuro.
+Las tablas de depreciación sirven para reflejar esa pérdida de valor de los activos en los libros de la empresa, y así poder determinar si un activo sigue siendo rentable conservarlo, cuantificar costos o realizar un plan de inversión a futuro.
 Es importante llevar un buen registro de la depreciación para no dar una imagen falsa o errónea a los inversionistas externos.
 
 
@@ -51,6 +51,7 @@ Es un bien tangible utilizado para producir bienes o servicios,  no son bienes p
 
 +***Vida útil***  
 Se trata del  período donde como indica su nombre, se espera que el activo  sea útil para la empresa. Se mide generalmente en años y depende del uso, la calidad y el entorno operativo.
+
 
 +***Valor residual***  
 Valor estimado del activo al final de su vida útil, vaya lo que se espera recuperar una vez se decide venderlo, desecharlo o intercambiarlo
@@ -85,17 +86,22 @@ La depreciación se puede definir como la pérdida de valor que sufre un activo 
 
 
 
-## Las causas de la depreciación
+## Las causas de la depreciación  
 
-La funcional a su vez, se divide en dos, por obsolescencia o por insuficiencia, cuando es por obsolescencia no tiene que ver con que el activo se haya desgastado, sino más bien con la adquisición de nuevos bienes o la invención de algo que produzca que ya no resulte útil seguir usando o teniendo el activo, porque resulte anticuado o inútil. Un ejemplo claro de activos que se deprecian por obsolescencia son algunos dispositivos electrónicos como computadoras, impresoras e incluso celulares.
+Las causas de la depreciación se dividen principalmente en dos, que son la funcional y la física.
+
+## Causa funcional  
+Tenemos la causa funcional que se presenta ya sea por obsolescencia o por insuficiencia.
+
+Cuando es por obsolescencia no tiene que ver con que el activo se haya desgastado, sino más bien con la adquisición de nuevos bienes o la invención de algo que produzca que ya no resulte útil seguir usando o teniendo el activo, porque resulte anticuado o inútil. Un ejemplo claro de activos que se deprecian por obsolescencia son algunos dispositivos electrónicos como computadoras, impresoras e incluso celulares.
 
 ## 
 
-Mientras que si se trata de obsolescencia funcional por insuficiencia, ahi no se habla de un “bien/activo sustituto” sino del simple hecho que nuestro activo no puede hacer frente a las necesidades o exigencias del trabajo que se le pide. Por ejemplo si una empresa posee una máquina que se encarga de producir x productos por hora, quizás hoy en día resulte prudente seguir manteniendo esa máquina si cumple con lo que se requiere, pero si en un futuro la empresa tiene que producir el doble o triple de productos que es capaz de producir, se vuelve insuficiente, la máquina no se desgastó, ni quedó “obsoleta” por así decirlo, solo que ya es “insuficiente” y por tanto se deprecia también.
+Mientras que si se trata de causa funcional por insuficiencia, ahi no se habla de un “bien/activo sustituto” sino del simple hecho que nuestro activo no puede hacer frente a las necesidades o exigencias del trabajo que se le pide. Por ejemplo si una empresa posee una máquina que se encarga de producir x productos por hora, quizás hoy en día resulte prudente seguir manteniendo esa máquina si cumple con lo que se requiere, pero si en un futuro la empresa tiene que producir el doble o triple de productos que es capaz de producir, se vuelve insuficiente, la máquina no se desgastó, ni quedó “obsoleta” por así decirlo, solo que ya es “insuficiente” y por tanto se deprecia también.
 
 
 
-## Causa fisica
+## Causa fisica  
 
 Por otro lado está la causa física de depreciación que esta sí se refiere a aquella que se presenta por el desgaste por el uso o la acción de elementos naturales, ejemplo de ellos es el desgaste u oxidación de piezas de una máquina.
 Tabla de depreciación
@@ -206,13 +212,16 @@ Base depreciable = 100,000 – 10,000 = $90,000
 Método: Línea recta
 
  Depreciación anual = 90,000 / 5 = $18,000
+
+##
  
-Año	Depreciación anual	Depreciación acumulada	Valor en libros
-1	18,000	18,000	82,000
-2	18,000	36,000	64,000
-3	18,000	54,000	46,000
-4	18,000	72,000	28,000
-5	18,000	90,000	10,000 (residual)
+|Año  |	Depreciación anual|	Depreciación acumulada|Valor en libros|
+|-----|-------------------|-----------------------|---------------|
+|1    |  18,000           |	18,000                |	82,000        |
+|2	  |18,000             |	36,000                |	64,000        |
+|3	  |18,000             |	54,000                |	46,000        |
+|4    |	18,000            |	72,000                |	28,000        |
+|5    |	18,000            |	90,000                |	10,000        | (residual)
 
 
 
