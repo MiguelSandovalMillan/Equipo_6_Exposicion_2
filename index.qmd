@@ -14,7 +14,7 @@ format:
 ---
 
 
-## Integrantes
+## Integrantes  
 
 -Miguel Sandoval Millán ➡ 2408819j@umich.mx
 
@@ -26,20 +26,20 @@ format:
 
 
 
-## Que son las tablas de depreciacion
+## Que son las tablas de depreciacion🗒   
 
 Las tablas de depreciación son un registro que detalla como se distribuye la pérdida de valor de un activo fijo a lo largo de su vida útil, son una parte muy importante en las matemáticas financieras para poder saber con exactitud la disminución del valor que tendrá dicho activo  a lo largo del tiempo. Mediante estas tablas se puede apreciar de manera más ordenada el valor de los distintos activos que posee una empresa, y así llevar un control sobre las variaciones (disminuciones) de su valor.
 
 
 
-## Para que sirven?
+## Para que sirven?🤔   
 
 Las tablas de depreciación sirven para reflejar esa pérdida de valor de los activos en los libros de la empresa, y así poder determinar si un activo sigue siendo rentable conservarlo, cuantificar costos o realizar un plan de inversión a futuro.
 Es importante llevar un buen registro de la depreciación para no dar una imagen falsa o errónea a los inversionistas externos.
 
 
 
-## Conceptos  
+## Conceptos✅  
 
 Algunos conceptos clave que se deben tomar en cuenta son los siguientes:  
 
@@ -80,17 +80,17 @@ Valor mínimo que se puede obtener por vender el activo como material o partes i
 +***Valor de salvamento***  
 Valor estimado al final de la vida útil; en muchos casos coincide con el valor residual.
 
-## Concepto de depreciación  
+## Concepto de depreciación📉  
 
 La depreciación se puede definir como la pérdida de valor que sufre un activo fijo, principalmente por cuestiones del uso, desgaste, obsolescencia o el simple paso del tiempo. Esto vuelve su vida útil limitada, que es determinada con base en la experiencia y la determinan expertos en el tema
 
 
 
-## Las causas de la depreciación  
+## Las causas de la depreciación❗   
 
 Las causas de la depreciación se dividen principalmente en dos, que son la funcional y la física.
 
-## Causa funcional  
+## Causa funcional📛  
 Tenemos la causa funcional que se presenta ya sea por obsolescencia o por insuficiencia.
 
 Cuando es por obsolescencia no tiene que ver con que el activo se haya desgastado, sino más bien con la adquisición de nuevos bienes o la invención de algo que produzca que ya no resulte útil seguir usando o teniendo el activo, porque resulte anticuado o inútil. Un ejemplo claro de activos que se deprecian por obsolescencia son algunos dispositivos electrónicos como computadoras, impresoras e incluso celulares.
@@ -101,12 +101,12 @@ Mientras que si se trata de causa funcional por insuficiencia, ahi no se habla d
 
 
 
-## Causa fisica  
+## Causa fisica‼️  
 
 Por otro lado está la causa física de depreciación que esta sí se refiere a aquella que se presenta por el desgaste por el uso o la acción de elementos naturales, ejemplo de ellos es el desgaste u oxidación de piezas de una máquina.
 
 
-## Tabla de depreciación
+## Tabla de depreciación🧾  
 Una tabla de depreciación es un registro ordenado que muestra, el valor en libros del activo, su depreciación anual, acumulada y el valor residual. Facilita visualizar el desgaste económico del bien.
 La periodicidad de estos registros siempre, o casi siempre suele ser anual.
 Existen diversos métodos para calcular el cargo periódico por depreciación, los más comunes son: 
@@ -174,7 +174,7 @@ Incluye capitalización del dinero reservado.
 
 
 
-## Comparativa entre métodos
+## Comparativa entre métodos🟰  
 
 
 ●	Línea recta: simple, uniforme, estable para reportes.
@@ -187,7 +187,7 @@ Incluye capitalización del dinero reservado.
 
 
 
-## Impacto de las tablas y la depreciación en la vida real
+## Impacto de las tablas y la depreciación en la vida real💸  
 
 Las tablas de depreciación son indispensables para la toma de decisiones empresariales:
 
@@ -298,7 +298,7 @@ Tasa de interés: 0.75%
 | 4 | 748.68      |  16.97          |   765.65         |3028.58           |1471.42   |
 | 5 | 748.68      |  22.71          |   771.39         |3799.97           |700.03    |
 
-## Conclusión
+## Conclusión💡
 
  En base a lo visto y señalado en el ensayo, se puede decir que la depreciación es un elemento esencial para comprender el comportamiento de los activos y su impacto en las finanzas de una empresa. Las tablas de depreciación permiten visualizar claramente esta pérdida de valor y vuelven más sencilla la toma de decisiones a futuro. Asimismo, los distintos  métodos que se explicaron permiten flexibilidad para adaptarse a las necesidades específicas o lo que se requiera de cada activo y organización según los datos que se tengan, contribuyendo a una gestión financiera más eficiente y responsable.
 
